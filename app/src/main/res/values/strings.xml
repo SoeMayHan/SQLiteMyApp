@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SQLiteMyApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_fragment_medicine">fragment_medicine</string>
+</resources>
